@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.list-item {
+  text-align: center;
+  padding: 4px;
+  height: 40px;
+  min-width: 150px;
+  margin-left: 0px;
+  margin-bottom: 5px;
+  font-weight: 400;
+  font-size: 22px;
+  margin-left: 10px;
+  background-color: #585076;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #d4d2db;
+  border-width: 1px;
+  color: #ffffff;
+}
